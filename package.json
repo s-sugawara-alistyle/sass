@@ -1,0 +1,11 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+  },
+  "dependencies": {
+    "sass": "^1.69.5"
+  }
+}
