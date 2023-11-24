@@ -1,5 +1,13 @@
 @charset "utf-8";
 
-.test {
-    color: blue;
+.cont {
+    background: yellowgreen;
+    .test {
+        font-size: larger;
+    
+        .span-test {
+            color: red;
+        }
+    
+    }
 }
